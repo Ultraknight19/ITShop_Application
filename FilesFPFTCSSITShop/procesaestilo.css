@@ -1,0 +1,155 @@
+.bodyitshop{
+	background-color: white;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 100%;
+	border-right: 65px solid #ff0000;
+	border-left: 65px solid #ff0000;
+	margin: -0.4px -0.4px -0.4px -0.4px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+h1.h1procealtavoces,
+h1.h1procediscosduros,
+h1.h1proceimpresoras,
+h1.h1procemonitores,
+h1.h1proceordenadores,
+h1.h1proceproyectores,
+h1.h1proceratones,
+h1.h1proceteclados,
+h1.h1procewebcams{
+	font-size: 35px;
+	color: #0a0000;
+	text-align: center;
+	padding-left: 175px;
+	padding-right: 175px;
+}
+
+table.tableprocealtavoces,
+table.tableprocediscosduros,
+table.tableproceimpresoras,
+table.tableprocemonitores,
+table.tableproceordenadores,
+table.tableproceproyectores,
+table.tableproceratones,
+table.tableproceteclados,
+table.tableprocewebcams{
+	width: 94%;
+	margin-left: 39px;
+}
+
+th.thprocealtavoces, td.tdprocealtavoces,
+th.thprocediscosduros, td.tdprocediscosduros,
+th.thproceimpresoras, td.tdproceimpresoras,
+th.thprocemonitores, td.tdprocemonitores,
+th.thproceordenadores, td.tdproceordenadores,
+th.thproceproyectores, td.tdproceproyectores,
+th.thproceratones, td.tdproceratones,
+th.thproceteclados, td.tdproceteclados,
+th.thprocewebcams, td.tdprocewebcams{
+	border-top: 2px;
+	border-right: 2px;
+	border-left: 2px;
+	border-bottom: 2px;
+	border-style: double;
+	border-color: #0a0000;
+	border-radius: 2px;
+}
+
+th.thprocealtavoces,
+th.thprocediscosduros,
+th.thproceimpresoras,
+th.thprocemonitores,
+th.thproceordenadores,
+th.thproceproyectores,
+th.thproceratones,
+th.thproceteclados,
+th.thprocewebcams{
+	background-color: #0a0000;
+	color: white;
+	text-transform: capitalize;
+	width: 50%;
+	height: 25px;
+}
+
+td.tdprocealtavoces,
+td.tdprocediscosduros,
+td.tdproceimpresoras,
+td.tdprocemonitores,
+td.tdproceordenadores,
+td.tdproceproyectores,
+td.tdproceratones,
+td.tdproceteclados,
+td.tdprocewebcams{
+	letter-spacing: 2px;
+	line-height: 1.5;
+	word-spacing: 1.5px;
+}
+
+button.buttonprocealtavoces,
+button.buttonprocediscosduros,
+button.buttonproceimpresoras,
+button.buttonprocemonitores,
+button.buttonproceordenadores,
+button.buttonproceproyectores,
+button.buttonproceratones,
+button.buttonproceteclados,
+button.buttonprocewebcams{
+	color: white;
+	background-color: #000491;
+	font-size: 15.5px;
+	padding: 5px 10px 5px 10px;
+	margin-left: 41px;
+	border-radius: 2px;
+	border: 2px solid #000491;
+}
+
+button.buttonprocealtavoces:hover,
+button.buttonprocediscosduros:hover,
+button.buttonproceimpresoras:hover,
+button.buttonprocemonitores:hover,
+button.buttonproceordenadores:hover,
+button.buttonproceproyectores:hover,
+button.buttonproceratones:hover,
+button.buttonproceteclados:hover,
+button.buttonprocewebcams:hover{
+	color: white;
+	background-color: #09bc00;
+	font-size: 15.5px;
+	border-radius: 2px;
+	border: 2px solid #09bc00;
+}
+
+input.inputprocealtavoces,
+input.inputprocediscosduros,
+input.inputproceimpresoras,
+input.inputprocemonitores,
+input.inputproceordenadores,
+input.inputproceproyectores,
+input.inputproceratones,
+input.inputproceteclados,
+input.inputprocewebcams{
+	color: white;
+	background-color: #000491;
+	font-size: 15.5px;
+	padding: 5px 5px 5px 5px;
+	margin-left: 1110px;
+	border-radius: 2px;
+	border: 2px solid #000491;
+}
+
+input.inputprocealtavoces:hover,
+input.inputprocediscosduros:hover,
+input.inputproceimpresoras:hover,
+input.inputprocemonitores:hover,
+input.inputproceordenadores:hover,
+input.inputproceproyectores:hover,
+input.inputproceratones:hover,
+input.inputproceteclados:hover,
+input.inputprocewebcams:hover{
+	color: white;
+	background-color: #09bc00;
+	font-size: 15.5px;
+	border-radius: 2px;
+	border: 2px solid #09bc00;
+}

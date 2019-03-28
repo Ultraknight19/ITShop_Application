@@ -1,0 +1,362 @@
+.bodyitshop{
+	background-color: white;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 100%;
+	border-right: 65px solid #ff0000;
+	border-left: 65px solid #ff0000;
+	margin: -0.4px -0.4px -0.4px -0.4px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+h1.h1formualtavoces,
+h1.h1formuratones,
+h1.h1formuteclados,
+h1.h1formuwebcams{
+	font-size: 35px;
+	color: #0a0000;
+	text-align: center;
+	padding-right: 65px;
+	padding-left: 65px;
+}
+
+h1.h1formudiscosduros,
+h1.h1formuimpresoras,
+h1.h1formuordenadores,
+h1.h1formuproyectores{
+	font-size: 35px;
+	color: #0a0000;
+	text-align: center;
+	padding-right: 35px;
+	padding-left: 35px;
+}
+
+h1.h1formumonitores{
+	font-size: 35px;
+	color: #0a0000;
+	text-align: center;
+	padding-right: 55px;
+	padding-left: 55px;
+}
+
+h4.h4formualtavoces,
+h4.h4formudiscosduros,
+h4.h4formuimpresoras,
+h4.h4formumonitores,
+h4.h4formuordenadores,
+h4.h4formuproyectores,
+h4.h4formuratones,
+h4.h4formuteclados,
+h4.h4formuwebcams{
+	font-size: 16.5px;
+	color: #0a0000;
+	text-align: center;
+}
+
+fieldset.fieldsetformualtavoces,
+fieldset.fieldsetformudiscosduros,
+fieldset.fieldsetformuimpresoras,
+fieldset.fieldsetformumonitores,
+fieldset.fieldsetformuordenadores,
+fieldset.fieldsetformuproyectores,
+fieldset.fieldsetformuratones,
+fieldset.fieldsetformuteclados,
+fieldset.fieldsetformuwebcams{
+	margin: 0px 50px 0px 50px;
+	padding: 5px 5px 5px 5px;
+	border-color: darkgrey;
+	border-radius: 2px;
+	border-style: double;
+	background-color: darkgrey;
+}
+
+label.labelformualtavoces,
+label.labelformuratones{
+	width: 35%;
+	float: left;
+	text-align: center;
+	margin-top: 10px;
+	padding: 10px 10px 10px 10px;
+	display: inline-block;
+	border-color: #0a0000;
+	border-radius: 2px;
+	background-color: #0a0000;
+	color: white;
+	text-transform: uppercase;
+	max-width: 674px;
+}
+
+label.labelformudiscosduros{
+	width: 27%;
+	float: left;
+	text-align: center;
+	margin-top: 10px;
+	padding: 10px 10px 10px 10px;
+	display: inline-block;
+	border-color: #0a0000;
+	border-radius: 2px;
+	background-color: #0a0000;
+	color: white;
+	text-transform: uppercase;
+	max-width: 763px;
+}
+
+label.labelformuimpresoras,
+label.labelformumonitores{
+	width: 30%;
+	float: left;
+	text-align: center;
+	margin-top: 10px;
+	padding: 10px 10px 10px 10px;
+	display: inline-block;
+	border-color: #0a0000;
+	border-radius: 2px;
+	background-color: #0a0000;
+	color: white;
+	text-transform: uppercase;
+	max-width: 730px;
+}
+
+label.labelformuordenadores{
+	width: 14%;
+	float: left;
+	text-align: center;
+	margin-top: 10px;
+	padding: 10px 10px 10px 10px;
+	display: inline-block;
+	border-color: #0a0000;
+	border-radius: 2px;
+	background-color: #0a0000;
+	color: white;
+	text-transform: uppercase;
+	max-width: 906px;
+}
+
+label.labelformuproyectores{
+	width: 38%;
+	float: left;
+	text-align: center;
+	margin-top: 10px;
+	padding: 10px 10px 10px 10px;
+	display: inline-block;
+	border-color: #0a0000;
+	border-radius: 2px;
+	background-color: #0a0000;
+	color: white;
+	text-transform: uppercase;
+	max-width: 641px;
+}
+
+label.labelformuteclados{
+	width: 28%;
+	float: left;
+	text-align: center;
+	margin-top: 10px;
+	padding: 10px 10px 10px 10px;
+	display: inline-block;
+	border-color: #0a0000;
+	border-radius: 2px;
+	background-color: #0a0000;
+	color: white;
+	text-transform: uppercase;
+	max-width: 752px;
+}
+
+label.labelformuwebcams{
+	width: 22%;
+	float: left;
+	text-align: center;
+	margin-top: 10px;
+	padding: 10px 10px 10px 10px;
+	display: inline-block;
+	border-color: #0a0000;
+	border-radius: 2px;
+	background-color: #0a0000;
+	color: white;
+	text-transform: uppercase;
+	max-width: 818px;
+}
+
+input.inputformualtavoces01,
+input.inputformuratones01{
+	width: 65%;
+	float: left;
+	margin-top: 10px;
+	padding: 10px 10px 10px 10px;
+	resize: vertical;
+	border-color: #0a0000;
+	border-radius: 2px;
+	max-width: 674px;
+}
+
+input.inputformudiscosduros01{
+	width: 73%;
+	float: left;
+	margin-top: 10px;
+	padding: 10px 10px 10px 10px;
+	resize: vertical;
+	border-color: #0a0000;
+	border-radius: 2px;
+	max-width: 763px;
+}
+
+input.inputformuimpresoras01,
+input.inputformumonitores01{
+	width: 70%;
+	float: left;
+	margin-top: 10px;
+	padding: 10px 10px 10px 10px;
+	resize: vertical;
+	border-color: #0a0000;
+	border-radius: 2px;
+	max-width: 730px;
+}
+
+input.inputformuordenadores01{
+	width: 86%;
+	float: left;
+	margin-top: 10px;
+	padding: 10px 10px 10px 10px;
+	resize: vertical;
+	border-color: #0a0000;
+	border-radius: 2px;
+	max-width: 906px;
+}
+
+input.inputformuproyectores01{
+	width: 62%;
+	float: left;
+	margin-top: 10px;
+	padding: 10px 10px 10px 10px;
+	resize: vertical;
+	border-color: #0a0000;
+	border-radius: 2px;
+	max-width: 641px;
+}
+
+input.inputformuteclados01{
+	width: 72%;
+	float: left;
+	margin-top: 10px;
+	padding: 10px 10px 10px 10px;
+	resize: vertical;
+	border-color: #0a0000;
+	border-radius: 2px;
+	max-width: 752px;
+}
+
+input.inputformuwebcams01{
+	width: 78%;
+	float: left;
+	margin-top: 10px;
+	padding: 10px 10px 10px 10px;
+	resize: vertical;
+	border-color: #0a0000;
+	border-radius: 2px;
+	max-width: 818px;
+}
+
+input.inputformualtavoces02,
+input.inputformudiscosduros02,
+input.inputformuimpresoras02,
+input.inputformumonitores02,
+input.inputformuordenadores02,
+input.inputformuproyectores02,
+input.inputformuratones02,
+input.inputformuteclados02,
+input.inputformuwebcams02{
+	margin-left: 1025px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	color: white;
+	background-color: #000491;
+	font-size: 15.5px;
+	padding: 5px 5px 5px 5px;
+	border-radius: 2px;
+	border: 2px solid #000491;
+}
+
+input.inputformualtavoces02:hover,
+input.inputformudiscosduros02:hover,
+input.inputformuimpresoras02:hover,
+input.inputformumonitores02:hover,
+input.inputformuordenadores02:hover,
+input.inputformuproyectores02:hover,
+input.inputformuratones02:hover,
+input.inputformuteclados02:hover,
+input.inputformuwebcams02:hover{
+	color: white;
+	background-color: #09bc00;
+	font-size: 15.5px;
+	border-radius: 2px;
+	border: 2px solid #09bc00;
+}
+
+button.buttonformualtavoces,
+button.buttonformudiscosduros,
+button.buttonformuimpresoras,
+button.buttonformumonitores,
+button.buttonformuordenadores,
+button.buttonformuproyectores,
+button.buttonformuratones,
+button.buttonformuteclados,
+button.buttonformuwebcams{
+	color: white;
+	margin-left: 50px;
+	background-color: #000491;
+	font-size: 15.5px;
+	padding: 5px 5px 5px 5px;
+	border-radius: 2px;
+	border: 2px solid #000491;
+}
+
+button.buttonformualtavoces:hover,
+button.buttonformudiscosduros:hover,
+button.buttonformuimpresoras:hover,
+button.buttonformumonitores:hover,
+button.buttonformuordenadores:hover,
+button.buttonformuproyectores:hover,
+button.buttonformuratones:hover,
+button.buttonformuteclados:hover,
+button.buttonformuwebcams:hover{
+	color: white;
+	background-color: #09bc00;
+	font-size: 15.5px;
+	border-radius: 2px;
+	border: 2px solid #09bc00;
+}
+
+input.inputformualtavoces03,
+input.inputformudiscosduros03,
+input.inputformuimpresoras03,
+input.inputformumonitores03,
+input.inputformuordenadores03,
+input.inputformuproyectores03,
+input.inputformuratones03,
+input.inputformuteclados03,
+input.inputformuwebcams03{
+	color: white;
+	margin-left: 978px;
+	background-color: #000491;
+	font-size: 15.5px;
+	padding: 5px 5px 5px 5px;
+	border-radius: 2px;
+	border: 2px solid #000491;
+}
+
+input.inputformualtavoces03:hover,
+input.inputformudiscosduros03:hover,
+input.inputformuimpresoras03:hover,
+input.inputformumonitores03:hover,
+input.inputformuordenadores03:hover,
+input.inputformuproyectores03:hover,
+input.inputformuratones03:hover,
+input.inputformuteclados03:hover,
+input.inputformuwebcams03:hover{
+	color: white;
+	background-color: #09bc00;
+	font-size: 15.5px;
+	border-radius: 2px;
+	border: 2px solid #09bc00;	
+}
+

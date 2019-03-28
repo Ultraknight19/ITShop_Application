@@ -1,0 +1,172 @@
+.bodyitshop{
+	background-color: white;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 100%;
+	border-right: 65px solid #ff0000;
+	border-left: 65px solid #ff0000;
+	margin: -0.4px -0.4px -0.4px -0.4px;
+	padding-top: 63px;
+	padding-bottom: 63px;
+}
+
+h1.h1tablaaltavoces,
+h1.h1tabladiscosduros,
+h1.h1tablaimpresoras,
+h1.h1tablamonitores,
+h1.h1tablaordenadores,
+h1.h1tablaproyectores,
+h1.h1tablaratones,
+h1.h1tablateclados,
+h1.h1tablawebcams{
+	font-size: 35px;
+	color: #0a000;
+	text-align: center;
+	padding-left: 125px;
+	padding-right: 125px;
+}
+
+div.divtablaaltavoces,
+div.divtabladiscosduros,
+div.divtablaimpresoras,
+div.divtablamonitores,
+div.divtablaordenadores,
+div.divtablaproyectores,
+div.divtablaratones,
+div.divtablateclados,
+div.divtablawebcams{
+	overflow: auto;
+}
+
+table.tabletablaaltavoces,
+table.tabletabladiscosduros,
+table.tabletablaimpresoras,
+table.tabletablamonitores,
+table.tabletablaordenadores,
+table.tabletablaproyectores,
+table.tabletablaratones,
+table.tabletablateclados,
+table.tabletablawebcams{
+	font-size: 13.6px;
+}
+
+th.thtablaaltavoces, td.tdtablaaltavoces,
+th.thtabladiscosduros, td.tdtabladiscosduros,
+th.thtablaimpresoras, td.tdtablaimpresoras,
+th.thtablamonitores, td.tdtablamonitores,
+th.thtablaordenadores, td.tdtablaordenadores,
+th.thtablaproyectores, td.tdtablaproyectores,
+th.thtablaratones, td.tdtablaratones,
+th.thtablateclados, td.tdtablateclados,
+th.thtablawebcams, td.tdtablawebcams{
+	border-top: 2px;
+	border-right: 2px;
+	border-left: 2px;
+	border-bottom: 2px;
+	border-style: double;
+	border-color: #0a0000;
+	border-radius: 2px;
+}
+
+th.thtablaaltavoces,
+th.thtabladiscosduros,
+th.thtablaimpresoras,
+th.thtablamonitores,
+th.thtablaordenadores,
+th.thtablaproyectores,
+th.thtablaratones,
+th.thtablateclados,
+th.thtablawebcams{
+	background-color: #0a0000;
+	color: white;
+	text-transform: uppercase;
+}
+
+td.tdtablaaltavoces,
+td.tdtabladiscosduros,
+td.tdtablaimpresoras,
+td.tdtablamonitores,
+td.tdtablaordenadores,
+td.tdtablaproyectores,
+td.tdtablaratones,
+td.tdtablateclados,
+td.tdtablawebcams{
+	letter-spacing: 2px;
+	line-height: 1.5;
+	word-spacing: 1.5px;
+}
+
+button.buttontablaaltavoces,
+button.buttontablaimpresoras,
+button.buttontablamonitores,
+button.buttontablaordenadores,
+button.buttontablaproyectores{
+	color: white;
+	background-color: #000491;
+	font-size: 15.5px;
+	margin-top: 15px;
+	margin-left: 1055px;
+	padding: 5px 10px 5px 10px;
+	border-radius: 2px;
+	border: 2px solid #000491; 
+}
+
+button.buttontabladiscosduros{
+	color: white;
+	background-color: #000491;
+	font-size: 15.5px;
+	margin-top: 29px;
+	margin-left: 1055px;
+	padding: 5px 10px 5px 10px;
+	border-radius: 2px;
+	border: 2px solid #000491;
+}
+
+button.buttontablaratones{
+	color: white;
+	background-color: #000491;
+	font-size: 15.5px;
+	margin-top: 55px;
+	margin-left: 1055px;
+	padding: 5px 10px 5px 10px;
+	border-radius: 2px;
+	border: 2px solid #000491;
+}
+
+
+button.buttontablateclados{
+	color: white;
+	background-color: #000491;
+	font-size: 15.5px;
+	margin-top: 12px;
+	margin-left: 1055px;
+	padding: 5px 10px 5px 10px;
+	border-radius: 2px;
+	border: 2px solid #000491;
+}
+
+button.buttontablawebcams{
+	color: white;
+	background-color: #000491;
+	font-size: 15.5px;
+	margin-top: 69px;
+	margin-left: 1055px;
+	padding: 5px 10px 5px 10px;
+	border-radius: 2px;
+	border: 2px solid #000491;
+}
+
+button.buttontablaaltavoces:hover,
+button.buttontabladiscosduros:hover,
+button.buttontablaimpresoras:hover,
+button.buttontablamonitores:hover,
+button.buttontablaordenadores:hover,
+button.buttontablaproyectores:hover,
+button.buttontablaratones:hover,
+button.buttontablateclados:hover,
+button.buttontablawebcams:hover{
+	color: white;
+	background-color: #09bc00;
+	font-size: 15.5px;
+	border-radius: 2px;
+	border: 2px solid #09bc00;
+}

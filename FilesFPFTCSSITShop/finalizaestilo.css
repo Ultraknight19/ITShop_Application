@@ -1,0 +1,170 @@
+.bodyitshop{
+	background-color: white;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 100%;
+	border-right: 65px solid #ff0000;
+	border-left: 65px solid #ff0000;
+	margin: -0.4px -0.4px -0.4px -0.4px;
+	padding-top: 128.5px;
+	padding-bottom: 128.5px;
+}
+
+h1.h1finalaltavoces,
+h1.h1finaldiscosduros,
+h1.h1finalimpresoras,
+h1.h1finalmonitores,
+h1.h1finalordenadores,
+h1.h1finalproyectores,
+h1.h1finalratones,
+h1.h1finalteclados,
+h1.h1finalwebcams{
+	font-size: 35px;
+	color: #0a0000;
+	text-align: center;
+	padding-right: 215px;
+	padding-left: 215px;
+}
+
+table.tablefinalaltavoces01,
+table.tablefinalaltavoces02,
+table.tablefinaldiscosduros01,
+table.tablefinaldiscosduros02,
+table.tablefinalimpresoras01,
+table.tablefinalimpresoras02,
+table.tablefinalmonitores01,
+table.tablefinalmonitores02,
+table.tablefinalordenadores01,
+table.tablefinalordenadores02,
+table.tablefinalproyectores01,
+table.tablefinalproyectores02,
+table.tablefinalratones01,
+table.tablefinalratones02,
+table.tablefinalteclados01,
+table.tablefinalteclados02,
+table.tablefinalwebcams01,
+table.tablefinalwebcams02{
+	width: 42%;
+	margin-left: 360px;
+}
+
+th.thfinalaltavoces01, td.tdfinalaltavoces01,
+th.thfinalaltavoces02, td.tdfinalaltavoces02,
+th.thfinaldiscosduros01, td.tdfinaldiscosduros01,
+th.thfinaldiscosduros02, td.tdfinaldiscosduros02,
+th.thfinalimpresoras01, td.tdfinalimpresoras01,
+th.thfinalimpresoras02, td.tdfinalimpresoras02,
+th.thfinalmonitores01, td.tdfinalmonitores01,
+th.thfinalmonitores02, td.tdfinalmonitores02,
+th.thfinalordenadores01, td.tdfinalordenadores01,
+th.thfinalordenadores02, td.tdfinalordenadores02,
+th.thfinalproyectores01, td.tdfinalproyectores01,
+th.thfinalproyectores02, td.tdfinalproyectores02,
+th.thfinalratones01, td.tdfinalratones01,
+th.thfinalratones02, td.tdfinalratones02,
+th.thfinalteclados01, td.tdfinalteclados01,
+th.thfinalteclados02, td.tdfinalteclados02,
+th.thfinalwebcams01, td.tdfinalwebcams01,
+th.thfinalwebcams02, td.tdfinalwebcams02{
+	border-top: 2px;
+	border-right: 2px;
+	border-left: 2px;
+	border-bottom: 2px;
+	border-style: double;
+	border-color: #0a0000;
+	border-radius: 2px;
+}
+
+th.thfinalaltavoces01,
+th.thfinalaltavoces02,
+th.thfinaldiscosduros01,
+th.thfinaldiscosduros02,
+th.thfinalimpresoras01,
+th.thfinalimpresoras02,
+th.thfinalmonitores01,
+th.thfinalmonitores02,
+th.thfinalordenadores01,
+th.thfinalordenadores02,
+th.thfinalproyectores01,
+th.thfinalproyectores02,
+th.thfinalratones01,
+th.thfinalratones02,
+th.thfinalteclados01,
+th.thfinalteclados02,
+th.thfinalwebcams01,
+th.thfinalwebcams02{
+	background-color: #0a0000;
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	text-transform: uppercase;
+	height: 25px;
+}
+
+td.tdfinalaltavoces01,
+td.tdfinaldiscosduros01,
+td.tdfinalimpresoras01,
+td.tdfinalmonitores01,
+td.tdfinalordenadores01,
+td.tdfinalproyectores01,
+td.tdfinalratones01,
+td.tdfinalteclados01,
+td.tdfinalwebcams01{
+	background-color: #09bc00;
+	color: #0a0000;
+	font-size: 25px;
+	text-align: center;
+	text-transform: capitalize;
+	height: 25px;
+}
+
+td.tdfinalaltavoces02,
+td.tdfinaldiscosduros02,
+td.tdfinalimpresoras02,
+td.tdfinalmonitores02,
+td.tdfinalordenadores02,
+td.tdfinalproyectores02,
+td.tdfinalratones02,
+td.tdfinalteclados02,
+td.tdfinalwebcams02{
+	background-color: #ff0000;
+	color: #0a0000;
+	font-size: 25px;
+	text-align: center;
+	text-transform: capitalize;
+	height: 25px;
+}
+
+input.inputfinalaltavoces,
+input.inputfinaldiscosduros,
+input.inputfinalimpresoras,
+input.inputfinalmonitores,
+input.inputfinalordenadores,
+input.inputfinalproyectores,
+input.inputfinalratones,
+input.inputfinalteclados,
+input.inputfinalwebcams{
+	color: white;
+	background-color: #000491;
+	font-size: 15.5px;
+	margin-top: 50px;
+	margin-left: 950px;
+	padding: 5px 10px 5px 10px;
+	border-radius: 2px;
+	border: 2px double #000491;
+}
+
+input.inputfinalaltavoces:hover,
+input.inputfinaldiscosduros:hover,
+input.inputfinalimpresoras:hover,
+input.inputfinalmonitores:hover,
+input.inputfinalordenadores:hover,
+input.inputfinalproyectores:hover,
+input.inputfinalratones:hover,
+input.inputfinalteclados:hover,
+input.inputfinalwebcams:hover{
+	color: white;
+	background-color: #09bc00;
+	font-size: 15.5px;
+	border-radius: 2px;
+	border: 2px double #09bc00;
+}
